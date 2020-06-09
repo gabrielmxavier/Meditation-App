@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    
+    <title>Meditation App</title>
+</head>
+<body>
+    <section>
+        <div class="row">
+            <div class="timer" id="timer">
+                <h1>TIME</h1>
+                <p class="watch"><span class="minutes">00</span> : <span class="seconds">00</span> : <span class="centiseconds">000</span></p>
+            </div>
+            <div class="breath" id="container">
+                <div class="circle">
+                    <p class="text" id="text">Meditation</p>
+                </div>
+            </div>
+            <div class="control">
+                <button class="btn" onclick="startTimer()">START</button>
+            </div>
+        </div>
+    </section>
+    <script src="/script.js"></script>
+</body>
+</html>
