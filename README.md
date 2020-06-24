@@ -3,7 +3,7 @@
  
  Um aplicativo de respiração para ajudar na meditação, diminuir sua ansiedade e relaxar sua mente.
  
- [Meditation-App](https://gabrielmxavier.github.io/Meditation-App/)
+ to use the app, Click here: [Meditation-App](https://gabrielmxavier.github.io/Meditation-App/)
  
 
 ## Overview
